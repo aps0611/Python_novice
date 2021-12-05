@@ -1,2 +1,2 @@
-# ineuron_submissions_1
+# ineuron_submissions
 This repository includes assignments
