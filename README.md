@@ -1,2 +1,2 @@
-# ineuron_submissions
+#THE BASIC STUFF
 This repository includes assignments
